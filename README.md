@@ -19,6 +19,38 @@ These notes are my way of learning from every story, every stumble, and every pr
 ---
 
 **If you’d like to read, comment, or share your perspective,** please do! I’m here to learn and grow with you.
+Also here is how this open source project will go.
+I will teach how 100 million projects are build. this is focused on young entrepreneurs in day of AI
+Currently I will be writing things.
+The idea is to utilize AI to make it fun to go along.
 
 **Let’s build something that matters.**
+
+
+Here is the template
+
+---
+title: "Day X: [Your Title / Focus]"
+date: YYYY-MM-DD
+---
+
+**Thoughts:**  
+(Your reflections, what you’re feeling, noticing, or wondering today.)
+
+**Problems:**  
+(The challenges or questions you’re grappling with.)
+
+**New Insights:**  
+(What clicked today? What did you learn, notice, or realize?)
+
+**Actions (Planned & Done):**  
+✅ Action 1 you took  
+✅ Action 2 you took  
+🔲 Action 3 you’re planning to take  
+🔲 Any other future actions  
+
+**References / Inspiration:**  
+- Reference 1 (article, video, conversation, etc.)  
+- Reference 2  
+- Book / podcast you found helpful  
 
