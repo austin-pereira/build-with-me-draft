@@ -51,8 +51,7 @@ date: YYYY-MM-DD
 - Reference 1 (article, video, conversation, etc.)
 - Reference 2  
 - Book / podcast you found helpful
--     ![ChatGPT Image May 19, 2025, 04_08_30 PM](https://github.com/user-attachments/assets/ee9b38bf-3b07-41c2-b4a1-f7030c470f61)
+  
 
-
-
+![ChatGPT Image May 19, 2025, 04_08_30 PM](https://github.com/user-attachments/assets/74b9a88d-5fc6-4486-834d-6d19d74c446f)
 
