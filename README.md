@@ -1,5 +1,3 @@
-# build-with-me-draft
-
 # Build with Me – Draft Notes
 
 Welcome to the early notes and drafts for **Build with Me** — a direct, story-driven book that explores creative problem-solving through the eyes of the customer.
