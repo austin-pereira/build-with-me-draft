@@ -48,7 +48,11 @@ date: YYYY-MM-DD
 🔲 Any other future actions  
 
 **References / Inspiration:**  
-- Reference 1 (article, video, conversation, etc.)  
+- Reference 1 (article, video, conversation, etc.)
 - Reference 2  
-- Book / podcast you found helpful  
+- Book / podcast you found helpful
+-     ![ChatGPT Image May 19, 2025, 04_08_30 PM](https://github.com/user-attachments/assets/ee9b38bf-3b07-41c2-b4a1-f7030c470f61)
+
+
+
 
