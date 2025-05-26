@@ -1,5 +1,7 @@
 # Build with Me – Draft Notes
 
+
+
 Welcome to the early notes and drafts for **Build with Me** — a direct, story-driven book that explores creative problem-solving through the eyes of the customer.
 
 This book isn’t about me. It’s about the builders, dreamers, and curious minds who don’t want to just watch from the sidelines. It’s about understanding problems as **customers feel them** — and turning that empathy into something real.
@@ -55,3 +57,5 @@ date: YYYY-MM-DD
 
 ![ChatGPT Image May 19, 2025, 04_08_30 PM](https://github.com/user-attachments/assets/74b9a88d-5fc6-4486-834d-6d19d74c446f)
 
+References
+https://chatgpt.com/c/683218fe-0e70-8012-aa2e-06199e986867
