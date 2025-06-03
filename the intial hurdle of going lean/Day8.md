@@ -1,7 +1,5 @@
----
-title: "Day 8: Piecing Everything Together"
-date: 2025-05-29
----
+"Piecing Everything Together"
+
 
 **Thoughts:**  
 Today I’m thinking about the **whole picture** — not just the product, not just the mission, but how every part connects. The real job of a builder is to **sieve through the noise**, keep what matters, and bring the right pieces together to make something that works, lasts, and grows.
